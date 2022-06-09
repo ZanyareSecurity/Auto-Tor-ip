@@ -54,7 +54,7 @@ print('''\033[1;32;40m \n
    / /\ \| | | | __/ _ \     | |/ _ \| '__|
   / ____ \ |_| | || (_) |    | | (_) | |
  /_/    \_\__,_|\__\___/     |_|\___/|_|
-                V 2.1
+                V 3.0 Updated
 from Zanyare.Security
 ''')
 print("\033[1;40;31m https://www.facebook.com/Zanyare.Software/\n")
